@@ -1,4 +1,4 @@
-# **Soen-341-Project**
+# **Q & A Website**
 
 ## **Objective:**
 The objective of this project is to create a Q&A website with a rating system on answers.
